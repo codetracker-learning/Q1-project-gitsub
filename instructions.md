@@ -4,9 +4,17 @@
 
 As a team, build a clone of the GitHub website as outlined below. Be creative and have fun.
 
-**:warning:** DO NOT start coding until an instructor has looked at your github project AND Milestones.
+**:warning:** DO NOT start coding until an instructor has looked at your Milestones.
 
-## Requirements
+## Definition of Done
+- All items are completed in getting started
+- MVP, defined by the Acceptance Criteria, has been completed
+- The title of your application is visible in the browser tab
+- The project has been deployed
+- Loom video has been created
+- `README.md` has been updated
+
+## Acceptance Criteria (Requirements)
 
 ### Theme
 
