@@ -89,7 +89,39 @@ Now you have all of your work, plus all of your teammate's approved work on one 
 
 ### Twists
 Your project must include each of the following:
-* **Complex Data** - At least 1 of your pages should use a more complex data structure.  This means that one of your arrays should have an array inside each object.  For example:  your repos could have an array of objects called users and each of your users could have an array called social media in it.  You then would have to figure out how to display all the users and their social media in the domString
+* **Complex Data** - At least 1 of your pages should use a more complex data structure.  This means that one of your arrays should have an array inside each object.  For example:  your repos could have an array of objects called users and each of your users could have an array called socials in it.  You then would have to figure out how to display all the users and their social media in the domString
+
+```js
+const usersExample = [
+  {
+    name: 'Person Name1',
+    socials: [
+      {
+        smName: 'Twitter',
+        url: 'https://twitter.com'
+      },
+      {
+        smName: 'LinkedIn',
+        url: 'https://linkedin.com'
+      }
+    ],
+  },
+  {
+    name: 'Person Name2',
+    socials: [
+      {
+        smName: 'Twitter',
+        url: 'https://twitter.com'
+      },
+      {
+        smName: 'Instagram',
+        url: 'https://instagram.com'
+      }
+    ],
+  }
+]
+```
+
 * **Dynamic Buttons** - somewhere in your project there should be some dynamically created buttons (NOT IN THE HTML...RENDERED USING JAVASCRIPT) - clicking each button should perform some sort of action
 * **Form** - Each page in your project should have at least 1 form.  Submitting that form via a button click should do something.
 
