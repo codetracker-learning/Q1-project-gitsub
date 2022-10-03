@@ -77,7 +77,7 @@ Now you have all of your work, plus all of your teammate's approved work on one 
 * EVERY SINGLE PAGE must include a JS loop of some kind
 * All your JS should be written in functions.  Wherever possible reusable functions.
 
-**:warning:** DO NOT start coding until an instructor has looked at your github project AND MILESTONES.
+**:warning:** DO NOT start coding until an instructor has looked at your MILESTONES.
 
 ### Twists
 Your project must include each of the following:
