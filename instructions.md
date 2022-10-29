@@ -55,10 +55,6 @@ Some possible options are:
 
 Create data objects that you can use for your website. Do not duplicate objects or arrays. If multiple team members need the same data, create one data source for everyone to use.
 
-### Teamwork
-
-Create a Project board for your site and make the columns for 'Backlog', 'Todo', 'Doing', 'Code Review', 'Done'. Create notes for different units of work, make the notes into issues, and assign it to the team members doing the work. When you are assigned to an issue, make sure that you are moving it over to the right column on the board.
-
 ### Planning
 Your team **MUST** use github projects to track tickets and progress on tickets.
 
@@ -71,9 +67,10 @@ Your team is going to learn how to use git to enable good teamwork when building
 
 1. Follow the instructions in class to clone down the repo
 1. `cd` into the directory that got created.
-2. Reference [this discussion ticket](https://github.com/orgs/nss-evening-web-development/discussions/5) for how to work on teams with github
-3. Before anyone on the team writes a single line of code, the team will decide on a branch naming strategy. Branches should be descriptive of the work that is going to be done on that branch. Some teams also decide to add the developer's information to the branch name, such as initials. For example, a developer named Jasmine Sheboygen is going to work on the navbar for the web site. A good name for the branch would be `js-navbar`.
-4. Your team already has a README.md file so there is no reason anyone should push to the main branch - LIKE EVER.  Also at some point there should probably exist a good, proper readme with screenshots
+1. [Protect the main branch](https://github.com/orgs/nss-evening-web-development/discussions/268) of your project
+1. Reference [this discussion ticket](https://github.com/orgs/nss-evening-web-development/discussions/5) for how to work on teams with github
+1. Before anyone on the team writes a single line of code, the team will decide on a branch naming strategy. Branches should be descriptive of the work that is going to be done on that branch. Some teams also decide to add the developer's information to the branch name, such as initials. For example, a developer named Jasmine Sheboygen is going to work on the navbar for the web site. A good name for the branch would be `js-navbar`.
+1. Your team already has a README.md file so there is no reason anyone should push to the main branch - LIKE EVER.  Also at some point there should probably exist a good, proper readme with screenshots
 
 Now everyone will work on their page on those individual branches. Once a teammate feels that their work is complete, the teammate will push up their branch to Github and create a pull request. Decide as a group your standard for reviewing and approving pull requests, for example, you may decide that each PR needs one thumbs up from another teammate, you may decide that everyone in the group needs to give it a thumbs up, etc. At the very least, one of the other teammates must review the pull request and give a thumbs up (Just type :+1 in the comment box).
 
