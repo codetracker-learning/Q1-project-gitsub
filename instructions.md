@@ -56,7 +56,7 @@ Some possible options are:
 Create data objects that you can use for your website. Do not duplicate objects or arrays. If multiple team members need the same data, create one data source for everyone to use.
 
 ### Planning
-Your team **MUST** use github projects to track tickets and progress on tickets.
+Your team **MUST** use github milestones to track tickets and progress on tickets.
 
 - Create issue tickets for EVERYthing that needs to be completed in your project. There are going to be some elements that you will need to work on as a team and some that you will do as an individual. This is a TEAM project. NO ONE GETS LEFT BEHIND!
 - [Create Milestones and team deadlines for issues.](https://docs.github.com/en/github/managing-your-work-on-github/creating-and-editing-milestones-for-issues-and-pull-requests)
